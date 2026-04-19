@@ -13,3 +13,9 @@ Practice the professional "Feature Branch" workflow by forking, cloning, and con
 
 ### Command History 
 Complete this README.md with the commands you used to complete the tasks above. 
+
+git clone repo-link
+git branch harikrishna
+git add .
+git commit -m "Upload"
+ git push -u origin harikrishna
